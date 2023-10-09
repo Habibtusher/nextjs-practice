@@ -9,7 +9,7 @@ const Admin = () => {
       <Head>
         <title>Admin</title>
       </Head>
-      <h1>This is admin</h1>
+      <h1>This is admin sdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsd</h1>
     </div>
   );
 };
